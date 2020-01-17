@@ -50,4 +50,14 @@ I also developed a R package for selection of reference genes from transcriptomi
 [GitHub](http://github.com/KarenGoncalves)
 
 # Maribel
-k
+
+<img src="images/Karen.png" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+
+### Research path
+
+I am a biotechnology engineer with concentration in molecular biology, I obtained my degree at [ITESM](https://tec.mx/es) in Mexico. Nowadays, I am doing my Master degree in Quebec at [UQTR](https://www.uqtr.ca/informationgenerale/english.shtml) with [Isabel Desgagné-Penix](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=3466) as supervisor, working on __*The Characterization of Vanillin Synthase in a model diatom*__. 
+
+I am expecting to do a fast track to PhD to work on __*Transcriptomics of engineered microalgae*__, eventhough the program is in molecular and cellular biology, I will do the analysis of my data. 
+
+I have worked with metagenomics data to asign taxonomy to microbial populations from environmental samples in Mexico, analize
+
