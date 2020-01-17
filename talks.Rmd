@@ -4,7 +4,9 @@ pagetitle: Publications
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-## Papers
+# Karen
+
+### Papers
 
 **dos Santos, K.C.G.**, Desgagné-Penix, I. & Germain, H. Custom selected reference genes outperform pre-defined reference genes in transcriptomic analysis. BMC Genomics 21, 35 (2020) DOI: [10.1186/s12864-019-6426-2](https://doi.org/10.1186/s12864-019-6426-2)
 
@@ -17,14 +19,14 @@ Lorrain, C., **Gonçalves dos Santos, K.C.**, Germain, H., Hecker, A. and Duples
 
 Ahmed, M.B., **Santos, K.C.G.d.**, Sanchez, I.B. et al. (2018), A rust fungal effector binds plant DNA and modulates transcription. Sci Rep 8, 14718, DOI: [10.1038/s41598-018-32825-0](https://doi.org/10.1038/s41598-018-32825-0)
 
-## Extended abstracts
+### Extended abstracts
 
 **K.C.G. Santos**; D.S.H. Lopez.; L.M. Perez.; l. Roberti; P. Schmid; I. Figueiredo; C.K. Peres; C.A.
 Rojas. (2013). _Gluconacetobacter diazotrophicus_ enhances growth initial stages of _Ilex paraguariensis_
 development. II Conferência Iberoamericana de Interaçoes Benéficas Microorganismos-Planta-Ambiente
 (IBEMPA), p. 450-451.
 
-## Oral presentations
+### Oral presentations
 
 **dos Santos, K.C.G.**, Desgagné-Penix, I. & Germain, H. (2017). Transcriptomic and metabolomic analysis of the alteration of physiological processes in a collection of transgenic plants expressing fungal effectors. Centre SEVE, Orford, Canada
 
@@ -32,7 +34,7 @@ development. II Conferência Iberoamericana de Interaçoes Benéficas Microorgan
 
 **K.C.G. Santos**; D.S.H. Lopez.; L.M. Perez.; l. Roberti; P. Schmid; I. Figueiredo; C.K. Peres; C.A. Rojas. (2013). Evaluation of the response of Yerba-Mate to the inoculation with potentially beneficial microorganisms. II Research Initiation Meeting - Unila, Foz do Iguaçu, Brazil.
 
-## Poster presentations
+### Poster presentations
 
 **dos Santos, K.C.G.**, Desgagné-Penix, I. & Germain, H. (2019). Transcriptomics and metabolomics of Arabidopsis expressing effectors from the poplar rust. Réunion conjointe Centre SÈVE – SPPQ, Bromont, Canada.
 
