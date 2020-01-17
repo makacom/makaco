@@ -1,2 +1,2 @@
-# KarenGoncalves.github.io
+# makaco.github.io
 MaKaCo website
