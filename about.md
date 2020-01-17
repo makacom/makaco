@@ -7,7 +7,7 @@ output: html_document
 
 # Karen
 
-<img src="images/Karen.png" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+<img src="images/karen.png" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
 ### Research path
 I have a bachelor degree in Biology from Brazil at [Unila](https://portal.unila.edu.br/) and I am currently doing my PhD in Quebec with [Hugo Germain](http://www.germainhugo.com/) and [Isabel Desgagne-Penix](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=3466) at [UQTR](http:/uqtr.ca) on **_Transcriptomics and metabolomics of Arabidopsis in response to fungal virulence proteins_**. 
@@ -51,7 +51,7 @@ I also developed a R package for selection of reference genes from transcriptomi
 
 # Maribel
 
-<img src="images/Karen.png" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+<img src="images/maribel.png" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
 ### Research path
 
