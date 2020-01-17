@@ -5,11 +5,11 @@ output: html_document
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-## Karen
+# Karen
 
 <img src="images/Karen.png" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
-
+### Research path
 I have a bachelor degree in Biology from Brazil at [Unila](https://portal.unila.edu.br/) and I am currently doing my PhD in Quebec with [Hugo Germain](http://www.germainhugo.com/) and [Isabel Desgagne-Penix](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=3466) at [UQTR](http:/uqtr.ca) on **_Transcriptomics and metabolomics of Arabidopsis in response to fungal virulence proteins_**. 
 
 Although my PhD program is in Cellular and molecular biology, I did all the analyses of my transcriptomic data and currently on my metabolomic data and I have collaborated in other projects throughout my PhD doing _de novo_ transcriptome assembly, annotation and differential exon usage.
@@ -19,7 +19,7 @@ In 2018, I did an internship at [Peter Solomon's lab](https://biology.anu.edu.au
 I also developed a R package for selection of reference genes from transcriptomic data (DOI: https://doi.org/10.1186/s12864-019-6426-2). 
 
 
-What I can do:
+### What I can do
 
   - MS Office
 
@@ -32,7 +32,7 @@ What I can do:
   - Unix – Compute Quebec (Canada – 2017)
 
 
-Languages I speak:
+### Languages I speak:
 
   - English (Full professional proficiency)
 
@@ -49,5 +49,5 @@ Languages I speak:
 
 [GitHub](http://github.com/KarenGoncalves)
 
-## Maribel
+# Maribel
 k
