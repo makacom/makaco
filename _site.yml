@@ -18,4 +18,4 @@ navbar:
       href: https://twitter.com/zabormetrics
 output:
   html_document:
-    theme: null
+    theme: jekyll-theme-dinky
