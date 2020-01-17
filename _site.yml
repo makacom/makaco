@@ -18,5 +18,4 @@ navbar:
       href: https://twitter.com/zabormetrics
 output:
   html_document:
-    theme: flatly
-    css: 'styles.css'
+    theme: null
