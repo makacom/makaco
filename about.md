@@ -59,5 +59,27 @@ I am a biotechnology engineer with concentration in molecular biology, I obtaine
 
 I am expecting to do a fast track to PhD to work on __*Transcriptomics of engineered microalgae*__, eventhough the program is in molecular and cellular biology, I will do the analysis of my data. 
 
-I have worked with metagenomics data to asign taxonomy to microbial populations from environmental samples in Mexico, analize
+Additionally, I have worked with metagenomics data to asign taxonomy to microbial populations from environmental samples in Mexico, analizing diffferential compositions depending on crop and developmental stage. 
 
+### What I can do
+
+  - MS Office
+
+  - R and Bioconductor – Institut National de la Recherche Agronomique (France – 2017)
+
+  - QIIME 2 – (Bolyen et al. - 2019)
+
+  - Unix – Compute Quebec (Canada – 2017)
+
+### Languages I speak:
+
+  - English (Full professional proficiency)
+
+  - French (Intermediate)
+
+  - Spanish (Native)
+  
+  
+[LinkedIn](https://www.linkedin.com/in/aracely-maribel-diaz-garza-6989b5169/)
+
+[GitHub](https://github.com/MaribelDG)
