@@ -1,0 +1,40 @@
+# Main config file for icon theme.
+theme = "hugo-icon"
+baseURL = "https://www.example.com/"
+languageCode = "en-us"
+title = "My Awesome Title"
+
+# Metadata
+[params]
+author = "Your name"
+description = "Cool description"
+
+# Hero section (from here on is for icon theme)
+[params.hero]
+img = "images/hero_bg.jpg"
+title = "Create awesome things for better web"
+description = "Lovingly hand-crafted by the fine folks at [FreeHTML5.co](http://freehtml5.co/)"
+
+# Navigation section
+[params.nav]
+  mission = "About us"
+
+[params.nav.url]
+  url = "about.html"
+
+[params.nav]
+  services = "Services"
+[params.nav.url]
+  url = "services.html"
+
+[params.nav]
+  team = "Examples"
+[params.nav.url]
+  url = "examples.html"
+
+[params.nav]
+  contact = "Get In Touch"
+[params.nav.url]
+  url = "contact.html"
+# Include logo instead if HOME:
+# logo = "path/to/logo"
