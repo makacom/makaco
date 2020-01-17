@@ -57,9 +57,9 @@ I also developed a R package for selection of reference genes from transcriptomi
 
 I am a biotechnology engineer with concentration in molecular biology, I obtained my degree at [ITESM](https://tec.mx/es) in Mexico. Nowadays, I am doing my Master degree in Quebec at [UQTR](https://www.uqtr.ca/informationgenerale/english.shtml) with [Isabel Desgagné-Penix](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=3466) as supervisor, working on __*The Characterization of Vanillin Synthase in a model diatom*__. 
 
-I am expecting to do a fast track to PhD to work on __*Transcriptomics of engineered microalgae*__, eventhough the program is in molecular and cellular biology, I will do the analysis of my data. 
+I am expecting to do a fast-track to PhD to work on __*Transcriptomics of engineered microalgae*__, eventhough the program is in molecular and cellular biology, I will do the analysis of my data. 
 
-Additionally, I have worked with metagenomics data to asign taxonomy to microbial populations from environmental samples in Mexico, analizing diffferential compositions depending on crop and developmental stage. 
+Additionally, I have worked with metagenomics data to assign taxonomy to microbial populations from environmental samples in Mexico, analyzing differential compositions depending on crop and developmental stage. 
 
 ### What I can do
 
