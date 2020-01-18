@@ -5,6 +5,7 @@ output:
   html_document:
     theme: cerulean
     toc: false
+    css: figures.css
 ---
   
 <link rel="stylesheet" href="styles.css" type="text/css">
