@@ -1,13 +1,16 @@
 --- 
-title: "About us"
+title: ""
 output: html_document
 ---
 
-# Karen
+# About us {.tabset .tabset-fade}
 
-<img src="images/karen.png" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+## **_Karen_** {.tabset .tabset-fade}
 
 ### Research path
+
+<img src="images/karen.png" style="width:20%; border:10px solid; margin-right: 20px" align="right"> 
+
 I have a bachelor degree in Biology from Brazil at [Unila](https://portal.unila.edu.br/) and I am currently doing my PhD in Quebec with [Hugo Germain](http://www.germainhugo.com/) and [Isabel Desgagne-Penix](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=3466) at [UQTR](http:/uqtr.ca) on **_Transcriptomics and metabolomics of Arabidopsis in response to fungal virulence proteins_**. 
 
 Although my PhD program is in Cellular and molecular biology, I did all the analyses of my transcriptomic data and currently on my metabolomic data and I have collaborated in other projects throughout my PhD doing _de novo_ transcriptome assembly, annotation and differential exon usage.
@@ -17,7 +20,10 @@ In 2018, I did an internship at [Peter Solomon's lab](https://biology.anu.edu.au
 I also developed a R package for selection of reference genes from transcriptomic data (DOI: https://doi.org/10.1186/s12864-019-6426-2). 
 
 
-### What I can do
+### Skills
+
+<img src="images/karen.png" style="width:20%; border:10px solid; margin-right: 20px" align="right"> 
+
 
   - MS Office
 
@@ -29,9 +35,6 @@ I also developed a R package for selection of reference genes from transcriptomi
 
   - Unix – Compute Quebec (Canada – 2017)
 
-
-### Languages I speak:
-
   - English (Full professional proficiency)
 
   - French (Full professional proficiency)
@@ -40,6 +43,9 @@ I also developed a R package for selection of reference genes from transcriptomi
 
   - Portuguese (Native)
 
+### Get in touch
+
+<img src="images/karen.png" style="width:20%; border:10px solid; margin-right: 20px" align="right"> 
 
 [Twitter](http://twitter.com/KarenCristineG1)
 
@@ -47,11 +53,11 @@ I also developed a R package for selection of reference genes from transcriptomi
 
 [GitHub](http://github.com/KarenGoncalves)
 
-# Maribel
-
-<img src="images/maribel.png" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+##  **_Maribel_**  {.tabset .tabset-fade}
 
 ### Research path
+
+<img src="images/maribel.png" style="width:25%; border:10px solid; margin-right: 20px" align="right"> 
 
 I am a biotechnology engineer with concentration in molecular biology, I obtained my degree at [ITESM](https://tec.mx/es) in Mexico. Nowadays, I am doing my Master degree in Quebec at [UQTR](https://www.uqtr.ca/informationgenerale/english.shtml) with [Isabel Desgagné-Penix](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=3466) as supervisor, working on __*The Characterization of Vanillin Synthase in a model diatom*__. 
 
@@ -59,7 +65,9 @@ I am expecting to do a fast-track to PhD to work on __*Transcriptomics of engine
 
 Additionally, I have worked with metagenomics data to assign taxonomy to microbial populations from environmental samples in Mexico, analyzing differential compositions depending on crop and developmental stage. 
 
-### What I can do
+### Skills
+
+<img src="images/maribel.png" style="width:25%; border:10px solid; margin-right: 20px" align="right"> 
 
   - MS Office
 
@@ -68,9 +76,7 @@ Additionally, I have worked with metagenomics data to assign taxonomy to microbi
   - QIIME 2
 
   - Unix
-
-### Languages I speak:
-
+  
   - English (Full professional proficiency)
 
   - French (Intermediate)
@@ -78,6 +84,10 @@ Additionally, I have worked with metagenomics data to assign taxonomy to microbi
   - Spanish (Native)
   
   
+### Get in touch
+
+<img src="images/maribel.png" style="width:25%; border:10px solid; margin-right: 20px" align="right"> 
+
 [LinkedIn](https://www.linkedin.com/in/aracely-maribel-diaz-garza-6989b5169/)
 
 [GitHub](https://github.com/MaribelDG)
