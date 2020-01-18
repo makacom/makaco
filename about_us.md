@@ -1,10 +1,7 @@
----
+--- 
 title: "About us"
-output: 
-    html_document:
-       theme: panthera-jekyll
+output: html_document
 ---
-
 
 # Karen
 

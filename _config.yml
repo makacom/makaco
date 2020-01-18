@@ -16,4 +16,4 @@ navbar:
       href: http://github.com/makacom
 output: 
     html_document:
-       theme: cerulean
+       theme: paper
