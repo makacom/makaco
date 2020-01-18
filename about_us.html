@@ -19,6 +19,9 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -248,6 +251,69 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -255,6 +321,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -282,18 +358,7 @@ $(document).ready(function () {
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        <li>
-  <a href="contact.html">
-    <span class="fa fa-envelope fa-lg"></span>
-     
-  </a>
-</li>
-<li>
-  <a href="http://github.com/makacom">
-    <span class="fa fa-github fa-lg"></span>
-     
-  </a>
-</li>
+        
       </ul>
     </div><!--/.nav-collapse -->
   </div><!--/.container -->
@@ -321,7 +386,7 @@ $(document).ready(function () {
 </div>
 <div id="skills" class="section level3">
 <h3>Skills</h3>
-<p><img src="images/karen.png" style="width:40%; border:10px solid; margin-right: 20px" align="right"></p>
+<p><img src="images/karen.png" style="width:30%; border:10px solid; margin-right: 20px" align="right"></p>
 <ul>
 <li><p>MS Office</p></li>
 <li><p>R and Bioconductor – Institut National de la Recherche Agronomique (France – 2017)</p>
@@ -333,11 +398,53 @@ $(document).ready(function () {
 </ul></li>
 <li><p>Python – Compute Quebec (Canada – 2017)</p></li>
 <li><p>Unix – Compute Quebec (Canada – 2017)</p></li>
-<li><p>English (Full professional proficiency)</p></li>
-<li><p>French (Full professional proficiency)</p></li>
-<li><p>Spanish (Full professional proficiency)</p></li>
-<li><p>Portuguese (Native)</p></li>
 </ul>
+<table>
+<thead>
+<tr class="header">
+<th align="left">Language</th>
+<th align="center">Read</th>
+<th align="center">Write</th>
+<th align="center">Speak</th>
+<th align="center">Understand</th>
+<th align="center">Native</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">English</td>
+<td align="center">Yes</td>
+<td align="center">Yes</td>
+<td align="center">Yes</td>
+<td align="center">Yes</td>
+<td align="center"></td>
+</tr>
+<tr class="even">
+<td align="left">French</td>
+<td align="center">Yes</td>
+<td align="center">Yes</td>
+<td align="center">Yes</td>
+<td align="center">Yes</td>
+<td align="center"></td>
+</tr>
+<tr class="odd">
+<td align="left">Portuguese</td>
+<td align="center">Yes</td>
+<td align="center">Yes</td>
+<td align="center">Yes</td>
+<td align="center">Yes</td>
+<td align="center">Yes</td>
+</tr>
+<tr class="even">
+<td align="left">Spanish</td>
+<td align="center">Yes</td>
+<td align="center">Yes</td>
+<td align="center">Yes</td>
+<td align="center">Yes</td>
+<td align="center"></td>
+</tr>
+</tbody>
+</table>
 </div>
 <div id="get-in-touch" class="section level3">
 <h3>Get in touch</h3>
@@ -364,10 +471,45 @@ $(document).ready(function () {
 <li><p>R and Bioconductor</p></li>
 <li><p>QIIME 2</p></li>
 <li><p>Unix</p></li>
-<li><p>English (Full professional proficiency)</p></li>
-<li><p>French (Intermediate)</p></li>
-<li><p>Spanish (Native)</p></li>
 </ul>
+<table>
+<thead>
+<tr class="header">
+<th align="left">Language</th>
+<th align="center">Read</th>
+<th align="center">Write</th>
+<th align="center">Speak</th>
+<th align="center">Understand</th>
+<th align="center">Native</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">English</td>
+<td align="center">Yes</td>
+<td align="center">Yes</td>
+<td align="center">Yes</td>
+<td align="center">Yes</td>
+<td align="center"></td>
+</tr>
+<tr class="even">
+<td align="left">French</td>
+<td align="center">Yes</td>
+<td align="center">No</td>
+<td align="center">No</td>
+<td align="center">Yes</td>
+<td align="center"></td>
+</tr>
+<tr class="odd">
+<td align="left">Spanish</td>
+<td align="center">Yes</td>
+<td align="center">Yes</td>
+<td align="center">Yes</td>
+<td align="center">Yes</td>
+<td align="center">Yes</td>
+</tr>
+</tbody>
+</table>
 </div>
 <div id="get-in-touch-1" class="section level3">
 <h3>Get in touch</h3>
@@ -380,6 +522,8 @@ $(document).ready(function () {
 
 
 
+</div>
+</div>
 
 </div>
 
@@ -412,6 +556,32 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

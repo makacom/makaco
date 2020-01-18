@@ -3,6 +3,7 @@ title: ""
 output: 
   html_document:
     theme: cerulean
+    toc: false
 ---
 
 # Publications {.tabset .tabset-fade}

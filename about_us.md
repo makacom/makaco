@@ -3,6 +3,7 @@ title: ""
 output: 
   html_document:
     theme: cerulean
+    toc: false
 ---
 
 # About us {.tabset .tabset-fade}
@@ -24,8 +25,7 @@ I also developed a R package for selection of reference genes from transcriptomi
 
 ### Skills
 
-<img src="images/karen.png" style="width:40%; border:10px solid; margin-right: 20px" align="right"> 
-
+<img src="images/karen.png" style="width:30%; border:10px solid; margin-right: 20px" align="right"> 
 
   - MS Office
 
@@ -37,13 +37,14 @@ I also developed a R package for selection of reference genes from transcriptomi
 
   - Unix – Compute Quebec (Canada – 2017)
 
-  - English (Full professional proficiency)
 
-  - French (Full professional proficiency)
+| Language | Read | Write | Speak | Understand | Native |
+|:----|:---:|:---:|:---:|:---:|:---:|
+| English | Yes | Yes | Yes | Yes | |
+| French | Yes | Yes | Yes | Yes | |
+| Portuguese | Yes | Yes | Yes | Yes | Yes |
+| Spanish  | Yes | Yes | Yes | Yes | |
 
-  - Spanish (Full professional proficiency)
-
-  - Portuguese (Native)
 
 ### Get in touch
 
@@ -79,11 +80,12 @@ Additionally, I have worked with metagenomics data to assign taxonomy to microbi
 
   - Unix
   
-  - English (Full professional proficiency)
 
-  - French (Intermediate)
-
-  - Spanish (Native)
+| Language | Read | Write | Speak | Understand | Native |
+|:----|:---:|:---:|:---:|:---:|:---:|
+| English | Yes | Yes | Yes | Yes | |
+| French | Yes | No | No | Yes | |
+| Spanish  | Yes | Yes | Yes | Yes | Yes |
   
   
 ### Get in touch
