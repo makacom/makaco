@@ -11,7 +11,6 @@ output:
   
 Contact us for an analysis:
 
-`r icon::fa("envelope")`
 
 
 makaco.bioinformatics@gmail.com<br>
