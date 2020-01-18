@@ -2,18 +2,16 @@
 title: ""
 output: 
   html_document:
-    toc: true
-    toc_float: true
+    theme: cerulean
 ---
 
 # About us {.tabset .tabset-fade}
-## Karen
 
 ## **_Karen_** {.tabset .tabset-fade}
 
 ### Research path
 
-<img src="images/karen.png" style="width:20%; border:10px solid; margin-right: 20px" align="right"> 
+<img src="images/karen.png" style="width:40%; border:10px solid; margin-right: 20px" align="right"> 
 
 I have a bachelor degree in Biology from Brazil at [Unila](https://portal.unila.edu.br/) and I am currently doing my PhD in Quebec with [Hugo Germain](http://www.germainhugo.com/) and [Isabel Desgagne-Penix](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=3466) at [UQTR](http:/uqtr.ca) on **_Transcriptomics and metabolomics of Arabidopsis in response to fungal virulence proteins_**. 
 
@@ -26,7 +24,7 @@ I also developed a R package for selection of reference genes from transcriptomi
 
 ### Skills
 
-<img src="images/karen.png" style="width:20%; border:10px solid; margin-right: 20px" align="right"> 
+<img src="images/karen.png" style="width:40%; border:10px solid; margin-right: 20px" align="right"> 
 
 
   - MS Office
@@ -49,7 +47,7 @@ I also developed a R package for selection of reference genes from transcriptomi
 
 ### Get in touch
 
-<img src="images/karen.png" style="width:20%; border:10px solid; margin-right: 20px" align="right"> 
+<img src="images/karen.png" style="width:40%; border:10px solid; margin-right: 20px" align="right"> 
 
 [Twitter](http://twitter.com/KarenCristineG1)
 
@@ -58,14 +56,10 @@ I also developed a R package for selection of reference genes from transcriptomi
 [GitHub](http://github.com/KarenGoncalves)
 
 ##  **_Maribel_**  {.tabset .tabset-fade}
-=======
-## Maribel
-
-<img src="images/maribel.png" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
 ### Research path
 
-<img src="images/maribel.png" style="width:25%; border:10px solid; margin-right: 20px" align="right"> 
+<img src="images/maribel.png" style="width:40%; border:10px solid; margin-right: 20px" align="right"> 
 
 I am a biotechnology engineer with concentration in molecular biology, I obtained my degree at [ITESM](https://tec.mx/es) in Mexico. Nowadays, I am doing my Master degree in Quebec at [UQTR](https://www.uqtr.ca/informationgenerale/english.shtml) with [Isabel Desgagné-Penix](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=3466) as supervisor, working on __*The Characterization of Vanillin Synthase in a model diatom*__. 
 
@@ -75,7 +69,7 @@ Additionally, I have worked with metagenomics data to assign taxonomy to microbi
 
 ### Skills
 
-<img src="images/maribel.png" style="width:25%; border:10px solid; margin-right: 20px" align="right"> 
+<img src="images/maribel.png" style="width:40%; border:10px solid; margin-right: 20px" align="right"> 
 
   - MS Office
 
@@ -94,7 +88,7 @@ Additionally, I have worked with metagenomics data to assign taxonomy to microbi
   
 ### Get in touch
 
-<img src="images/maribel.png" style="width:25%; border:10px solid; margin-right: 20px" align="right"> 
+<img src="images/maribel.png" style="width:40%; border:10px solid; margin-right: 20px" align="right"> 
 
 [LinkedIn](https://www.linkedin.com/in/aracely-maribel-diaz-garza-6989b5169/)
 
