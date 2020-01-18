@@ -1,9 +1,10 @@
 ---
 title: "About us"
-output: html_document
+output: 
+    html_document:
+       remote_theme: christianezeani/panthera-jekyll
 ---
 
-<link rel="stylesheet" href="styles.css" type="text/css">
 
 # Karen
 
