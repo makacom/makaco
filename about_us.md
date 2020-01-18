@@ -2,7 +2,7 @@
 title: "About us"
 output: 
     html_document:
-       remote_theme: christianezeani/panthera-jekyll
+       theme: panthera-jekyll
 ---
 
 

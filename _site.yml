@@ -4,11 +4,11 @@ navbar:
   title: "MaKaCo - Bioinformatic Consultants"
   left:
     - text: "About us"
-      href: about.html
+      href: about_us.html
     - text: "Services"
       href: services.html
     - text: "Publications"
-      href: talks.html
+      href: publications.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
@@ -16,4 +16,4 @@ navbar:
       href: http://github.com/makacom
 output: 
     html_document:
-       remote_theme: christianezeani/panthera-jekyll
+       theme: panthera-jekyll

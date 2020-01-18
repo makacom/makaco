@@ -1,11 +1,9 @@
 ---
 title: "Home"
-output: html_document
+output: 
+    html_document:
+       theme: panthera-jekyll
 ---
-
-<link rel="stylesheet" href="styles.css" type="text/css">
-
-
 
 ## ![MaKaKo]()
 
