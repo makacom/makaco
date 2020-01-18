@@ -1,9 +1,20 @@
 --- 
 title: ""
+<<<<<<< HEAD
 output: html_document
 ---
 
 # About us {.tabset .tabset-fade}
+=======
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# About us {.tabset .tabset-fade}
+## Karen
+>>>>>>> 187ba3c704fe3922de0180aad70a20e1833aa378
 
 ## **_Karen_** {.tabset .tabset-fade}
 
@@ -53,7 +64,13 @@ I also developed a R package for selection of reference genes from transcriptomi
 
 [GitHub](http://github.com/KarenGoncalves)
 
+<<<<<<< HEAD
 ##  **_Maribel_**  {.tabset .tabset-fade}
+=======
+## Maribel
+
+<img src="images/maribel.png" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+>>>>>>> 187ba3c704fe3922de0180aad70a20e1833aa378
 
 ### Research path
 
