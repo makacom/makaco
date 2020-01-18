@@ -9,9 +9,10 @@ navbar:
       href: services.html
     - text: "Publications"
       href: publications.html
-    - text: "Get in touch"
-      href: contact.html
 output: 
     html_document:
-       theme: cerulean
+       theme: yeti
        toc: false
+       include: 
+          after_body: footer.html
+       

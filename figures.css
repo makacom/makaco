@@ -2,3 +2,7 @@ img {
 width: 30%;
 border: 5px solid;
 }
+
+body {
+  background-color: linen;
+}

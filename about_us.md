@@ -2,7 +2,7 @@
 title: ""
 output: 
   html_document:
-    theme: cerulean
+    theme: yeti
     toc: false
     css: figures.css
 ---

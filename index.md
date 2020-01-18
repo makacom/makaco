@@ -2,7 +2,7 @@
 title: ""
 output: 
   html_document:
-    theme: cerulean
+    theme: yeti
     toc: false
     css: figures.css
 ---
@@ -24,9 +24,3 @@ Comparison of different the expression stability of different sets of reference 
 | | |
 | | | 
 | | |
-
-<footer>
-[Twitter]()
-
-[Github]()
-</footer>
