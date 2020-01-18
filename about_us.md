@@ -1,9 +1,13 @@
 --- 
-title: "About us"
-output: html_document
+title: ""
+output: 
+  html_document:
+    toc: true
+    toc_float: true
 ---
 
-# Karen
+# About us {.tabset .tabset-fade}
+## Karen
 
 <img src="images/karen.png" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
@@ -47,7 +51,7 @@ I also developed a R package for selection of reference genes from transcriptomi
 
 [GitHub](http://github.com/KarenGoncalves)
 
-# Maribel
+## Maribel
 
 <img src="images/maribel.png" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
