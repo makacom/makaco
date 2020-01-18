@@ -1,9 +1,13 @@
----
-pagetitle: Publications
-output: html_document
+--- 
+title: ""
+output: 
+  html_document:
+    theme: cerulean
 ---
 
-# Karen
+# Publications {.tabset .tabset-fade}
+
+## **_Karen_** {.tabset .tabset-fade}
 
 ### Papers
 
@@ -17,9 +21,7 @@ Lorrain, C., **Gonçalves dos Santos, K.C.**, Germain, H., Hecker, A. and Duples
 
 Ahmed, M.B., **Santos, K.C.G.d.**, Sanchez, I.B. et al. (2018), A rust fungal effector binds plant DNA and modulates transcription. Sci Rep 8, 14718, DOI: [10.1038/s41598-018-32825-0](https://doi.org/10.1038/s41598-018-32825-0)
 
-### Extended abstracts
-
-**dos Santos, K.C.G.**; Lopez, D.S.H. ; Perez, L.M.; Roberti, L.; Schmid, P.; Figueiredo, I.; Peres, C.K.; C.A. Rojas. (2013). _Gluconacetobacter diazotrophicus_ enhances growth initial stages of _Ilex paraguariensis_ development. II Conferência Iberoamericana de Interaçoes Benéficas Microorganismos-Planta-Ambiente (IBEMPA), p. 450-451.
+**dos Santos, K.C.G.**; Lopez, D.S.H. ; Perez, L.M.; Roberti, L.; Schmid, P.; Figueiredo, I.; Peres, C.K.; C.A. Rojas. (2013). _Gluconacetobacter diazotrophicus_ enhances growth initial stages of _Ilex paraguariensis_ development. II Conferência Iberoamericana de Interaçoes Benéficas Microorganismos-Planta-Ambiente (IBEMPA), p. 450-451 (Extended abstract).
 
 ### Oral presentations
 
@@ -51,3 +53,11 @@ Rojas. (2014). Analysis of the endophytic interaction of beneficial microorganis
 **dos Santos, K.C.G.**; Lopez, D.S.H. ; Perez, L.M.; Roberti, L.; Schmid, P.; Figueiredo, I.; Peres, C.K.; Rojas, C.K. (2013). Evaluation of the response of Yerba-Mate to the inoculation with potentially beneficial microorganisms. IV National and International Congress of Agrobiotechnology, Intellectual Property and Public Policies, Posadas, Argentina.
 
 **dos Santos, K.C.G.**; Lopez, D.S.H. ; Perez, L.M.; Roberti, L.; Schmid, P.; Figueiredo, I.; Peres, C.K.; Rojas, C.K. (2013). Evaluation of the response of Yerba-Mate to the inoculation with potentially beneficial microorganisms. II Research Initiation Meeting - Unila, Foz do Iguaçu, Brazil.
+
+## **_Maribel_** {.tabset .tabset-fade}
+
+### Papers
+
+### Oral presentations
+
+### Poster presentations
