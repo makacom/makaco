@@ -65,11 +65,11 @@ Additionally, I have worked with metagenomics data to assign taxonomy to microbi
 
   - MS Office
 
-  - R and Bioconductor – Institut National de la Recherche Agronomique (France – 2017)
+  - R and Bioconductor 
 
-  - QIIME 2 – (Bolyen et al. - 2019)
+  - QIIME 2
 
-  - Unix – Compute Quebec (Canada – 2017)
+  - Unix
 
 ### Languages I speak:
 
