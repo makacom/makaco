@@ -37,14 +37,12 @@ I also developed a R package for selection of reference genes from transcriptomi
 
   - Unix – Compute Quebec (Canada – 2017)
 
-
 | Language | Read | Write | Speak | Understand | Native |
 |:----|:---:|:---:|:---:|:---:|:---:|
-| English | Yes | Yes | Yes | Yes | |
-| French | Yes | Yes | Yes | Yes | |
-| Portuguese | Yes | Yes | Yes | Yes | Yes |
-| Spanish  | Yes | Yes | Yes | Yes | |
-
+| English | Fluent | Advanced | Fluent | Fluent | |
+| French | Fluent | Intermediary | Advanced | Fluent | |
+| Portuguese | Fluent | Fluent | Fluent | Fluent | Yes |
+| Spanish  | Fluent | Yes | Advanced | Fluent | |
 
 ### Get in touch
 
@@ -79,13 +77,13 @@ Additionally, I have worked with metagenomics data to assign taxonomy to microbi
   - QIIME 2
 
   - Unix
-  
+
 
 | Language | Read | Write | Speak | Understand | Native |
 |:----|:---:|:---:|:---:|:---:|:---:|
-| English | Yes | Yes | Yes | Yes | |
-| French | Yes | No | No | Yes | |
-| Spanish  | Yes | Yes | Yes | Yes | Yes |
+| English | Fluent | Advanced | Fluent | Fluent | |
+| French | Advanced | Intermediary | Intermediary | Advanced | |
+| Spanish  | Fluent | Fluent | Fluent | Fluent | Yes |
   
   
 ### Get in touch

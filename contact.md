@@ -15,4 +15,10 @@ Contact us for an analysis:
 
 makaco.bioinformatics@gmail.com<br>
 
-Or connect with me on GitHub, Twitter, or Linkedin (links in top right).
+Or connect with us on:
+
+[GitHub](https://github.com/makacom)
+
+[Twitter]()
+
+[Linkedin]().
