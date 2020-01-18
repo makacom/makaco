@@ -4,6 +4,7 @@ output:
   html_document:
     theme: cerulean
     toc: false
+    css: figures.css
 ---
 
 # About us {.tabset .tabset-fade}
@@ -12,7 +13,7 @@ output:
 
 ### Research path
 
-<img src="images/karen.png" style="width:40%; border:10px solid; margin-right: 20px" align="right"> 
+<img src="images/karen.png" align="right"> 
 
 I have a bachelor degree in Biology from Brazil at [Unila](https://portal.unila.edu.br/) and I am currently doing my PhD in Quebec with [Hugo Germain](http://www.germainhugo.com/) and [Isabel Desgagne-Penix](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=3466) at [UQTR](http:/uqtr.ca) on **_Transcriptomics and metabolomics of Arabidopsis in response to fungal virulence proteins_**. 
 
@@ -25,13 +26,15 @@ I also developed a R package for selection of reference genes from transcriptomi
 
 ### Skills
 
-<img src="images/karen.png" style="width:30%; border:10px solid; margin-right: 20px" align="right"> 
+<img src="images/karen.png" align="right"> 
 
   - MS Office
 
   - R and Bioconductor – Institut National de la Recherche Agronomique (France – 2017)
       - Transcriptomic analysis
           - From bam files to differential expression analysis and gene co-expression networks
+  
+  - Markdown
 
   - Python – Compute Quebec (Canada – 2017)
 
@@ -58,7 +61,7 @@ I also developed a R package for selection of reference genes from transcriptomi
 
 ### Research path
 
-<img src="images/maribel.png" style="width:40%; border:10px solid; margin-right: 20px" align="right"> 
+<img src="images/maribel.png" align="right"> 
 
 I am a biotechnology engineer with concentration in molecular biology, I obtained my degree at [ITESM](https://tec.mx/es) in Mexico. Nowadays, I am doing my Master degree in Quebec at [UQTR](https://www.uqtr.ca/informationgenerale/english.shtml) with [Isabel Desgagné-Penix](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=3466) as supervisor, working on __*The Characterization of Vanillin Synthase in a model diatom*__. 
 
