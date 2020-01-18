@@ -1,14 +1,14 @@
 ---
-title: "Home"
-output: html_document
+title: ""
+output: 
+  html_document:
+    theme: cerulean
 ---
 
-## ![MaKaKo]()
+# MaKaKo
 
-![Graph 1]()
-![Graph 1]()
-![Graph 1]()
-![Graph 1]()
-
+<img src="images/Figure2ABC.png" style="width:40%"> 
 
 [Twitter]()
+
+[Github]()

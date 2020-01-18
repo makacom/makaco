@@ -9,11 +9,11 @@ navbar:
       href: services.html
     - text: "Publications"
       href: publications.html
-  right:
+footer:
     - icon: fa-envelope fa-lg
       href: contact.html
     - icon: fa-github fa-lg
       href: http://github.com/makacom
 output: 
     html_document:
-       theme: paper
+       theme: cerulean
