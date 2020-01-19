@@ -11,8 +11,5 @@ navbar:
       href: publications.html
 output: 
     html_document:
-       theme: yeti
-       toc: false
-       include: 
-          after_body: footer.html
-       
+       theme: cerulean
+       css: figures.css
