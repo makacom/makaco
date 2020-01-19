@@ -1,9 +1,9 @@
 --- 
-title: ""
+title: "About us"
 output: html_document
 ---
 
-# About us {.tabset .tabset-fade}
+# {.tabset .tabset-fade}
 
 ## **_Karen_** {.tabset .tabset-fade}
 

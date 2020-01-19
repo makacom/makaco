@@ -1,9 +1,9 @@
 --- 
-title: ""
+title: "Publications"
 output: html_document
 ---
 
-# Publications {.tabset .tabset-fade}
+# {.tabset .tabset-fade}
 
 ## **_Karen_** {.tabset .tabset-fade}
 
