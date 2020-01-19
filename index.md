@@ -1,10 +1,6 @@
 ---
 title: ""
-output: 
-  html_document:
-    theme: yeti
-    toc: false
-    css: figures.css
+output: html_document
 ---
 
 # MaKaKo

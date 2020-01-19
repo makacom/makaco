@@ -1,10 +1,6 @@
 --- 
 title: ""
-output: 
-  html_document:
-    theme: yeti
-    toc: false
-    css: figures.css
+output: html_document
 ---
 
 # About us {.tabset .tabset-fade}
@@ -32,7 +28,10 @@ I also developed a R package for selection of reference genes from transcriptomi
 
   - R and Bioconductor – Institut National de la Recherche Agronomique (France – 2017)
       - Transcriptomic analysis
-          - From bam files to differential expression analysis and gene co-expression networks
+          - Obtaining read count files from aligment files
+          - Differential expression analysis
+          - GO and KEGG enrichment analysis
+          - Gene co-expression analysis
   
   - Markdown
 

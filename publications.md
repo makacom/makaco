@@ -1,10 +1,6 @@
 --- 
 title: ""
-output: 
-  html_document:
-    theme: cerulean
-    toc: false
-    css: figures.css
+output: html_document
 ---
 
 # Publications {.tabset .tabset-fade}
