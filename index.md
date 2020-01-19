@@ -1,5 +1,14 @@
 ---
 title: "MaKaCo"
+navbar:
+  title: "MaKaCo - Bioinformatic Consultants"
+  right:
+    - text: "About us"
+      href: about_us.html
+    - text: "Services"
+      href: services.html
+    - text: "Publications"
+      href: publications.html
 output: html_document
 ---
 
@@ -13,8 +22,8 @@ output: html_document
 
 <style>
 img {
-border: 0px; width: 50%;
-
+  border: 0px; 
+  width: 50%;
 }
 
 </style>

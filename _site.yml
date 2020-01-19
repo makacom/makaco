@@ -1,8 +1,10 @@
 title: "MaKaCo - Bioinformatic Consultants"
 output_dir: "."
+date: "2020/01/17"
+lang: en-US
 navbar:
   title: "MaKaCo - Bioinformatic Consultants"
-  left:
+  right:
     - text: "About us"
       href: about_us.html
     - text: "Services"
@@ -11,5 +13,5 @@ navbar:
       href: publications.html
 output: 
     html_document:
-       theme: cerulean
-       css: figures.css
+      theme: cerulean
+      css: figures.css
