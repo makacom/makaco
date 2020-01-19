@@ -3,20 +3,25 @@ title: ""
 output: html_document
 ---
 
-# MaKaKo
+#
+
+#
+
+#
+
+
 
 <style>
 img {
-border: 0px; width: 100%;
+border: 0px; width: 50%;
 
 }
 
 </style>
 
-|        |        |
-|:------|------:|
-| <img src="images/Figure2ABC.png" > 
-Comparison of different the expression stability of different sets of reference genes |  |
-| | |
-| | | 
-| | |
+<center>
+Comparison of expression stability of different sets of reference genes
+ 
+<img src="images/Figure2ABC.png" >
+
+</center>
