@@ -1,7 +1,6 @@
 title: "MaKaCo - Bioinformatic Consultants"
 output_dir: "."
 date: "2020/01/17"
-lang: en-US
 navbar:
   title: "MaKaCo - Bioinformatic Consultants"
   right:
@@ -13,5 +12,7 @@ navbar:
       href: publications.html
 output: 
     html_document:
+      include:
+        after-body: _footer.html
       theme: cerulean
       css: figures.css

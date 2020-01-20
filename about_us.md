@@ -5,6 +5,7 @@ output:
     theme: cerulean
     css: figures.css
 ---
+<script src="https://kit.fontawesome.com/0af1a424a5.js" crossorigin="anonymous"></script>
 
 # {.tabset .tabset-fade}
 
@@ -14,7 +15,8 @@ output:
 
 <img src="images/karen.png" align="right"> 
 
-I have a bachelor degree in Biology from Brazil at [Unila](https://portal.unila.edu.br/), where I researched the interaction of two bacteria ( _Gluconacetobacter diazotrophicus_ and _Azospirillum brasiliensis_) and a fungi with the Mate plant ( _Ilex paraguariensis_) under the direction of [Cristian A. Rojas](https://www.researchgate.net/profile/Cristian_Rojas6) and [Cleto Peres](https://www.researchgate.net/profile/Cleto_Peres). 
+
+I have a bachelor degree in Biology from Brazil at [Unila](https://portal.unila.edu.br/). There I researched the interaction of two bacteria, _Gluconacetobacter diazotrophicus_ and _Azospirillum brasiliensis_, and a fungi, _Trichoderma harzianum_, with the Mate plant, _Ilex paraguariensis_, under the direction of [Cristian A. Rojas](https://www.researchgate.net/profile/Cristian_Rojas6) and [Cleto Peres](https://www.researchgate.net/profile/Cleto_Peres). 
 
 I am currently doing my PhD in Quebec with [Hugo Germain](http://www.germainhugo.com/) and [Isabel Desgagne-Penix](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=3466) at [UQTR](http:/uqtr.ca) on **_Transcriptomics and metabolomics of Arabidopsis in response to fungal virulence proteins_**. Although my PhD program is in Cellular and molecular biology, I did all the analyses of my transcriptomic data and currently on my metabolomic data and I have collaborated in other projects throughout my PhD doing _de novo_ transcriptome assembly, annotation and differential exon usage.
 
@@ -53,11 +55,11 @@ I also developed a R package for selection of reference genes from transcriptomi
 
 <img src="images/karen.png" align="right"> 
 
-[Twitter](http://twitter.com/KarenCristineG1)
+[<i class="fab fa-twitter"></i>](http://twitter.com/KarenCristineG1)
 
-[LinkedIn](https://www.linkedin.com/in/karen-cristine-gon%C3%A7alves-dos-santos-05847a113/)
+[<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/in/karen-cristine-gon%C3%A7alves-dos-santos-05847a113/)
 
-[GitHub](http://github.com/KarenGoncalves)
+[<i class="fab fa-github"></i>](http://github.com/KarenGoncalves)
 
 ##  **_Maribel_**  {.tabset .tabset-fade}
 
@@ -95,6 +97,6 @@ Additionally, I have worked with metagenomics data to assign taxonomy to microbi
 
 <img src="images/maribel.png" align="right"> 
 
-[LinkedIn](https://www.linkedin.com/in/aracely-maribel-diaz-garza-6989b5169/)
+[<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/in/aracely-maribel-diaz-garza-6989b5169/)
 
-[GitHub](https://github.com/MaribelDG)
+[<i class="fab fa-github"></i>](https://github.com/MaribelDG)
