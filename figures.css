@@ -9,15 +9,12 @@ body {
   color: black;
 }
 
-input[type=text]{
-  width: 60%;
-  margin: 0px 0;
-  box-sizing: border-box;
-}
-
-textarea{
-  width: 60%;
-  padding: 3em 4em;
-  margin: 8px 0;
-  box-sizing: border-box;
+button,
+input,
+optgroup,
+select,
+textarea {
+  color: inherit;
+  font: inherit;
+  margin: 0;
 }

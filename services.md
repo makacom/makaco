@@ -37,5 +37,5 @@ Contact us for an analysis:
 <br>
 Or connect with us on: 
 
-<span style="font-size: 2em">[<i class="fab fa-github"></i>](https://github.com/makacom)     [<i class="fab fa-twitter"></i>]()     [<i class="fab fa-linkedin-in"></i>]()  [<i class="fas fa-envelope"></i>](makaco.bioinformatics@gmail.com)</span>
+<span style="font-size: 2em">[<i class="fab fa-github"></i>](https://github.com/makacom)     [<i class="fab fa-twitter"></i>]()     [<i class="fab fa-linkedin-in"></i>]()  </span>
 
