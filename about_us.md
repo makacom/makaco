@@ -54,13 +54,14 @@ I also developed a R package for selection of reference genes from transcriptomi
 ### **Get in touch**
 
 <img src="images/karen.png" align="right"> 
-<span style="font-size: 4em">
-[<i class="fab fa-twitter"></i>](http://twitter.com/KarenCristineG1)
 
-[<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/in/karen-cristine-gon%C3%A7alves-dos-santos-05847a113/)
+<span style="font-size: 1.5em">[<i class="fab fa-twitter"></i>](http://twitter.com/KarenCristineG1)</span>
 
-[<i class="fab fa-github"></i>](http://github.com/KarenGoncalves)
-</span>
+<span style="font-size: 1.5em">[<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/in/karen-cristine-gon%C3%A7alves-dos-santos-05847a113/)</span>
+
+<span style="font-size: 1.5em">[<i class="fab fa-github"></i>](http://github.com/KarenGoncalves)</span>
+
+
 
 ##  **_Maribel_**  {.tabset .tabset-fade}
 
@@ -98,6 +99,6 @@ Additionally, I have worked with metagenomics data to assign taxonomy to microbi
 
 <img src="images/maribel.png" align="right"> 
 
-[<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/in/aracely-maribel-diaz-garza-6989b5169/)
+<span style="font-size: 1.5em">[<i class="fab fa-linkedin-in"></i>](https://www.linkedin.com/in/aracely-maribel-diaz-garza-6989b5169/)</span>
 
-[<i class="fab fa-github"></i>](https://github.com/MaribelDG)
+<span style="font-size: 1.5em">[<i class="fab fa-github"></i>](https://github.com/MaribelDG)</span>
