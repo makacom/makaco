@@ -40,6 +40,7 @@ I also developed a R package for selection of reference genes from transcriptomi
 
   - Unix - Compute Quebec (Canada - 2017)
 
+
 | Language | Read | Write | Speak | Understand | Native |
 |:----|:---:|:---:|:---:|:---:|:---:|
 | English | Fluent | Advanced | Fluent | Fluent | |

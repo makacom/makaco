@@ -23,7 +23,8 @@ input[type="submit"], button, textarea {
                 Arial, sans-serif; 
 }
 
-textarea { width: 73%;  resize: none; }
+input[type="text"], input[type="email"] { width: 73%;  resize: both; }
+textarea { width: 85%;  resize: both; }
 li.photos {display: inline;}
 
 table {
