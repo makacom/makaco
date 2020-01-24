@@ -25,6 +25,9 @@ input[type="submit"], button, textarea {
 
 input[type="text"], input[type="email"] { width: 73%;  resize: both; }
 textarea { width: 85%;  resize: both; }
+
+input[type="text"]:hover, input[type="email"]:hover, textarea:hover{border: solid #1ac6ff;}
+input[type="text"]:active, input[type="email"]:active, textarea:active{border: solid #1ac6ff;}
 li.photos {display: inline;}
 
 table {
