@@ -17,7 +17,7 @@ To contact us for information about an analysis, fill out the form bellow.
     Your name: </label>  <input type="text" name="name" placeholder="Your name"/>
   
 <label>
-    Your e-mail: </label> <input type="email" name="_replyto" placeholder="Your email"/>
+    Your e-mail: </label> <input type="email" name="_replyto" placeholder="Your@email"/>
    
 
 
@@ -33,16 +33,15 @@ To contact us for information about an analysis, fill out the form bellow.
 
 <input type="hidden" name="_gotcha" />
     
-
-<input type="submit" value="Send message"/>
-    
+<div align="center">
+<input type="submit" value="Send message" align="center" />
+</div>
 </form>
 
 </div>
-<br>
 
 <br>
-
+<div align="center">
 You can also connect with us on: 
 
-<span style="font-size: 2em">[<i class="fab fa-github"></i>](https://github.com/makacom)     [<i class="fab fa-twitter"></i>]()     [<i class="fab fa-linkedin-in"></i>]()  </span>
+<span style="font-size: 2em">[<i class="fab fa-github"></i>](https://github.com/makacom)     [<i class="fab fa-twitter"></i>]()     [<i class="fab fa-linkedin-in"></i>]()  </span></div>
