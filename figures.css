@@ -28,10 +28,10 @@ textarea { width: 85%;  resize: both; }
 
 input[type="text"]:hover, input[type="email"]:hover, textarea:hover{border: solid #1ac6ff;}
 input[type="text"]:active, input[type="email"]:active, textarea:active{border: solid #1ac6ff;}
-li.photos {display: inline;}
+ph {display: inline;}
 
 input[type=submit]:hover{background-color: lightblue}
-button[type=submit].submit:active{background-color: red}
+.submit:active{background-color: red}
 
 table {
   border-bottom: 1px solid black;
@@ -44,7 +44,7 @@ tr {
   border-collapse: collapse; 
   border: none !important;}
 
-ol {padding: 0px; margin: 0px;}
+ol {padding: 0; margin: 0;}
 
 textarea:focus,input[type="text"]:focus,input[type="password"]:focus,input[type="file"]:focus,input[type="datetime"]:focus,input[type="datetime-local"]:focus,input[type="date"]:focus,input[type="month"]:focus,input[type="time"]:focus,input[type="week"]:focus,input[type="number"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="search"]:focus,input[type="tel"]:focus,input[type="color"]:focus,.faux-file:focus{
   outline:none;
