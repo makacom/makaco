@@ -39,6 +39,8 @@ I also developed a R package for selection of reference genes from transcriptomi
   - Python - Compute Quebec (Canada - 2017)
 
   - Unix - Compute Quebec (Canada - 2017)
+  
+  - High Performance Computing - Westgrid Summer School (Canada - 2020)
 
 
 | Language | Read | Write | Speak | Understand | Native |
@@ -54,13 +56,13 @@ I also developed a R package for selection of reference genes from transcriptomi
 
 #### *2020*
 
-**dos Santos, K.C.G.**, DesgagnÃ©-Penix, I. & Germain, H. Custom selected reference genes outperform pre-defined reference genes in transcriptomic analysis. BMC Genomics 21, 35 (2020) DOI: [10.1186/s12864-019-6426-2](https://doi.org/10.1186/s12864-019-6426-2)
+**dos Santos, K.C.G.**, Desgagne-Penix, I. & Germain, H. Custom selected reference genes outperform pre-defined reference genes in transcriptomic analysis. BMC Genomics 21, 35 (2020) DOI: [10.1186/s12864-019-6426-2](https://doi.org/10.1186/s12864-019-6426-2)
 
 #### *2019*
 
-Fradj, N., **dos Santos, K.C.G.**, Montigny, N., Awwad, F., Boumghar, Y., Germain, H., DesgagnÃ©-Penix, I.  2019. RNA-Seq de Novo Assembly and Differential Transcriptome Analysis of Chaga (_Inonotus obliquus_) Cultured with Different Betulin Sources and the Regulation of Genes Involved in Terpenoid Biosynthesis. International Journal of Molecular Sciences 20(18), 4334. DOI: [10.3390/ijms20184334](https://doi.org/10.3390/ijms20184334)
+Fradj, N., **dos Santos, K.C.G.**, Montigny, N., Awwad, F., Boumghar, Y., Germain, H., Desgagne-Penix, I.  2019. RNA-Seq de Novo Assembly and Differential Transcriptome Analysis of Chaga (_Inonotus obliquus_) Cultured with Different Betulin Sources and the Regulation of Genes Involved in Terpenoid Biosynthesis. International Journal of Molecular Sciences 20(18), 4334. DOI: [10.3390/ijms20184334](https://doi.org/10.3390/ijms20184334)
 
-Lorrain, C., **GonÃ§alves dos Santos, K.C.**, Germain, H., Hecker, A. and Duplessis, S. 2019. Advances in understanding obligate biotrophy in rust fungi. New Phytol, 222: 1190-1206. DOI: [10.1111/nph.15641](https://doi.org/10.1111/nph.15641)
+Lorrain, C., **Goncalves dos Santos, K.C.**, Germain, H., Hecker, A. and Duplessis, S. 2019. Advances in understanding obligate biotrophy in rust fungi. New Phytol, 222: 1190-1206. DOI: [10.1111/nph.15641](https://doi.org/10.1111/nph.15641)
 
 #### *2018*
 
@@ -70,54 +72,61 @@ Ahmed, M.B., **Santos, K.C.G.d.**, Sanchez, I.B. et al. 2018. A rust fungal effe
 
 #### *2013*
 
-**dos Santos, K.C.G.**; Lopez, D.S.H. ; Perez, L.M.; Roberti, L.; Schmid, P.; Figueiredo, I.; Peres, C.K.; C.A. Rojas. 2013. _Gluconacetobacter diazotrophicus_ enhances growth initial stages of _Ilex paraguariensis_ development. II ConferÃªncia Iberoamericana de InteraÃ§oes BenÃ©ficas Microorganismos-Planta-Ambiente (IBEMPA), p. 450-451 (Extended abstract).
+**dos Santos, K.C.G.**; Lopez, D.S.H. ; Perez, L.M.; Roberti, L.; Schmid, P.; Figueiredo, I.; Peres, C.K.; C.A. Rojas. 2013. _Gluconacetobacter diazotrophicus_ enhances growth initial stages of _Ilex paraguariensis_ development. II Conferencia Iberoamericana de Interacoes Beneficas Microorganismos-Planta-Ambiente (IBEMPA), p. 450-451 (Extended abstract).
 
 ### **Oral presentations**
 
 #### *2017*
 
-**dos Santos, K.C.G.**, DesgagnÃ©-Penix, I. & Germain, H. 2017. Transcriptomic and metabolomic analysis of the alteration of physiological processes in a collection of transgenic plants expressing fungal effectors. Centre SEVE, Orford, Canada
+**dos Santos, K.C.G.**, Desgagne-Penix, I. & Germain, H. 2017. Transcriptomic and metabolomic analysis of the alteration of physiological processes in a collection of transgenic plants expressing fungal effectors. Centre SEVE, Orford, Canada
 
 #### *2014*
 
-**dos Santos, K.C.G.**; Lopez, D.S.H. ; Perez, L.M.; Roberti, L.; Schmid, P.; Figueiredo, I.; Peres, C.K.; Rojas, C.A. 2014. Analysis of the endophytic interaction of beneficial microorganisms and the Yerba-mate. III Research Initiation Meeting - Unila - Research in the XXI century: challenges and possibilities, Foz do IguaÃ§u, Brazil.
+**dos Santos, K.C.G.**; Lopez, D.S.H. ; Perez, L.M.; Roberti, L.; Schmid, P.; Figueiredo, I.; Peres, C.K.; Rojas, C.A. 2014. Analise da interacao endofitica entre microorganismos beneficos e a erva-mate. III Research Initiation Meeting - Unila - Research in the XXI century: challenges and possibilities, Foz do Iguacu, Brazil.
 
 #### *2013*
 
-**dos Santos, K.C.G.**; Lopez, D.S.H. ; Perez, L.M.; Roberti, L.; Schmid, P.; Figueiredo, I.; Peres, C.K.; Rojas, C.A. 2013. Evaluation of the response of Yerba-Mate to the inoculation with potentially beneficial microorganisms. II Research Initiation Meeting - Unila, Foz do IguaÃ§u, Brazil.
+**dos Santos, K.C.G.**; Lopez, D.S.H. ; Perez, L.M.; Roberti, L.; Schmid, P.; Figueiredo, I.; Peres, C.K.; Rojas, C.A. 2013. Avaliacao da resposta da erva-mate a inoculacao com microorganismos potencialmente beneficos. II Research Initiation Meeting - Unila, Foz do Iguacu, Brazil.
 
 ### **Poster presentations**
 
+#### *2020*
+
+**dos Santos, K.C.G.**, Desgagne-Penix, I. & Germain, H. 2019. Etude des plantes exprimant des proteines de virulence de la rouille du peuplier. Contest of scientific Posters - UQTR, Trois-Rivieres, Canada.
+
 #### *2019*
 
-**dos Santos, K.C.G.**, DesgagnÃ©-Penix, I. & Germain, H. 2019. Transcriptomics and metabolomics of Arabidopsis expressing effectors from the poplar rust. RÃ©union conjointe Centre SÃVE â SPPQ, Bromont, Canada.
+**dos Santos, K.C.G.**, Desgagne-Penix, I. & Germain, H. 2019. Transcriptomics and metabolomics of Arabidopsis expressing effectors from the poplar rust. Reunion conjointe Centre SEVE et SPPQ, Bromont, Canada.
 
-**dos Santos, K.C.G.**, DesgagnÃ©-Penix, I. & Germain, H. (2019). Effectors from poplar rust modulate Arabidopsis transcriptome. IS-MPMI 2019, Glasgow, United Kingdom.
+**dos Santos, K.C.G.**, Desgagne-Penix, I. & Germain, H. (2019). Effectors from poplar rust modulate Arabidopsis transcriptome. IS-MPMI 2019, Glasgow, United Kingdom.
 
-**dos Santos, K.C.G.**, DesgagnÃ©-Penix, I. & Germain, H. 2019. Custom selected reference genes outperform pre-defined reference genes in transcriptomic analysis. Plant Canada 2019, Guelph, Canada.
+**dos Santos, K.C.G.**, Desgagne-Penix, I. & Germain, H. 2019. Custom selected reference genes outperform pre-defined reference genes in transcriptomic analysis. Plant Canada 2019, Guelph, Canada.
+
+
+**dos Santos, K.C.G.**, Desgagne-Penix, I. & Germain, H. 2019. Facteurs de virulence fongique modulent le transcriptome d'Arabidopsis. Contest of scientific Posters - UQTR, Trois-Rivieres, Canada.
 
 #### *2018*
 
-**dos Santos, K.C.G.**, DesgagnÃ©-Penix, I. & Germain, H. 2018. Analysis of transcriptomic alterations in a collection of transgenic plants expressing fungal effectors. Plant Biology 2018, Montreal, Canada.
+**dos Santos, K.C.G.**, Desgagne-Penix, I. & Germain, H. 2018. Analysis of transcriptomic alterations in a collection of transgenic plants expressing fungal effectors. Plant Biology 2018, Montreal, Canada.
 
-**dos Santos, K.C.G.**, DesgagnÃ©-Penix, I. & Germain, H. 2018. Analysis of transcriptomic alterations in a collection of transgenic plants expressing fungal effectors. Contest of scientific Posters - UQTR, Trois-RiviÃ¨res, Canada.
+**dos Santos, K.C.G.**, Desgagne-Penix, I. & Germain, H. 2018. Analysis of transcriptomic alterations in a collection of transgenic plants expressing fungal effectors. Contest of scientific Posters - UQTR, Trois-Rivieres, Canada.
 
 #### *2017*
 
-**dos Santos, K.C.G.**, DesgagnÃ©-Penix, I. & Germain, H. 2017. Transcriptomic and metabolomic analysis of the alteration of physiological processes in a collection of transgenic plants expressing fungal effectors. Contest of scientific posters - UQTR, Trois-RiviÃ¨res, Canada.
+**dos Santos, K.C.G.**, Desgagne-Penix, I. & Germain, H. 2017. Transcriptomic and metabolomic analysis of the alteration of physiological processes in a collection of transgenic plants expressing fungal effectors. Contest of scientific posters - UQTR, Trois-Rivieres, Canada.
 
 #### *2014*
 
 **dos Santos, K.C.G.**; Lopez, D.S.H. ; Perez, L.M.; Roberti, L.; Schmid, P.; Figueiredo, I.; Peres, C.K.; Rojas, C.A. 2014. Growth promotion of _Ilex paraguariensis_ mediated by _Gluconacetobacter diazotrophicus_ and its relation to nitrogen metabolism. VI South American Congress of Yerba Mate and II International Symposium of Yerba Mate and Health, Montevideo, Uruguay.
 
 **dos Santos, K.C.G.**; Lopez, D.S.H. ; Perez, L.M.; Roberti, L.; Schmid, P.; Figueiredo, I.; Peres, C.K.; C.A.
-Rojas. 2014. Analysis of the endophytic interaction of beneficial microorganisms and the Yerba-mate. III Research Initiation Meeting - Unila - Research in the XXI century: challenges and possibilities, Foz do IguaÃ§u, Brazil.
+Rojas. 2014. Analise da interacao endofitica entre microorganismos beneficos e a erva-mate. III Research Initiation Meeting - Unila - Research in the XXI century: challenges and possibilities, Foz do Iguacu, Brazil.
 
 #### *2013*
 
-**dos Santos, K.C.G.**; Lopez, D.S.H. ; Perez, L.M.; Roberti, L.; Schmid, P.; Figueiredo, I.; Peres, C.K.; Rojas, C.A. 2013. Evaluation of the response of Yerba-Mate to the inoculation with potentially beneficial microorganisms. IV National and International Congress of Agrobiotechnology, Intellectual Property and Public Policies, Posadas, Argentina.
+**dos Santos, K.C.G.**; Lopez, D.S.H. ; Perez, L.M.; Roberti, L.; Schmid, P.; Figueiredo, I.; Peres, C.K.; Rojas, C.A. 2013. Evaluacion de la respuesta de la yerba-mate a la inoculacion con microorganismos potencialmente beneficos. IV National and International Congress of Agrobiotechnology, Intellectual Property and Public Policies, Posadas, Argentina.
 
-**dos Santos, K.C.G.**; Lopez, D.S.H. ; Perez, L.M.; Roberti, L.; Schmid, P.; Figueiredo, I.; Peres, C.K.; Rojas, C.A. 2013. Evaluation of the response of Yerba-Mate to the inoculation with potentially beneficial microorganisms. II Research Initiation Meeting - Unila, Foz do IguaÃ§u, Brazil.
+**dos Santos, K.C.G.**; Lopez, D.S.H. ; Perez, L.M.; Roberti, L.; Schmid, P.; Figueiredo, I.; Peres, C.K.; Rojas, C.A. 2013. Avaliacao da resposta da erva-mate a inoculacao com microorganismos potencialmente beneficos. II Research Initiation Meeting - Unila, Foz do Iguacu, Brazil.
 
 ## **Get in touch**
 
