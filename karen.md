@@ -76,9 +76,14 @@ Ahmed, M.B., **Santos, K.C.G.d.**, Sanchez, I.B. et al. 2018. A rust fungal effe
 
 ### **Oral presentations**
 
+#### *2020*
+
+**dos Santos, K.C.G.**, Desgagne-Penix, I. & Germain, H. 2020. Impact of fungal virulence proteins in plants. Centre SEVE Web Conferences (June 16<sup>th</sup> 2020), Canada.
+
+
 #### *2017*
 
-**dos Santos, K.C.G.**, Desgagne-Penix, I. & Germain, H. 2017. Transcriptomic and metabolomic analysis of the alteration of physiological processes in a collection of transgenic plants expressing fungal effectors. Centre SEVE, Orford, Canada
+**dos Santos, K.C.G.**, Desgagne-Penix, I. & Germain, H. 2017. Transcriptomic and metabolomic analysis of the alteration of physiological processes in a collection of transgenic plants expressing fungal effectors. Centre SEVE, Orford, Canada.
 
 #### *2014*
 
